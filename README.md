@@ -3,18 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=200&section=header&text=Maxime%20Lanca%20—%20Software%20Engineer&fontSize=38&fontAlign=70&fontColor=f5f5f5" />
 </p>
 
-<h1 align="center">Software Engineer | Python · C# · Backend · Unity</h1>
+<h1 align="center">Développeur | Python · C# · Backend · Unity</h1>
 <p align="center">🇫🇷 France · Développement logiciel, API backend, outils techniques et simulations</p>
 
 ---
 
 ## À propos de moi
 
-Je suis **Software Engineer** spécialisé en **développement backend Python**, **APIs REST**, **Django**, **Flask**, ainsi qu’en programmation **C#** pour des outils et simulations Unity.
+Je suis **Développeur** spécialisé en **développement backend Python**, **APIs REST**, **Django**, **Flask**, ainsi qu’en programmation **C#** pour des outils et simulations Unity.
 
 Mon parcours de **Projeteur Industriel | BIM (Building Information Modeling)** m’a donné une compréhension forte des systèmes complexes, des modèles 3D et des environnements techniques exigeants. Aujourd’hui, j’applique cette rigueur au développement logiciel : conception claire, structuration, optimisation, lisibilité et fiabilité.
-
-J’aime construire des systèmes backend robustes, comprendre les mécanismes sous le capot, optimiser ce qui peut l’être et créer des outils qui améliorent l’efficacité au quotidien.
 
 ---
 
@@ -37,8 +35,8 @@ J’aime construire des systèmes backend robustes, comprendre les mécanismes s
 ## ⭐ Projets mis en avant
 
 ### 🔹 **Backend Python / APIs**
-- **API Django – SoftDesk** : gestion utilisateurs, permissions, tickets, relations hiérarchiques.  
-- **API Django REST (projets personnels)** : endpoints sécurisés, serialisation, tests unitaires.  
+- **API Django**: gestion utilisateurs, permissions, tickets, relations hiérarchiques.  
+- **API Django REST** : endpoints sécurisés, serialisation, tests unitaires.  
 - **Flask – Mini services backend** : endpoints légers, logique métier, structuration propre.
 
 ### 🔹 **Outils Unity / C#**
@@ -50,15 +48,13 @@ J’aime construire des systèmes backend robustes, comprendre les mécanismes s
 - Résolution algorithmique, optimisation, complexité.  
 - Refonte de scripts pour améliorer lisibilité et performance.  
 
-*(Je peux ajouter ici les liens GitHub dès que tu me dis lesquels mettre en avant.)*
-
 ---
 
 ## 💼 Expériences
 
 | Rôle | Entreprise | Dates | Missions principales |
 |------|------------|--------|----------------------|
-| **Ingénieur applicatif – C# / Unity / OCWS** | Projet EDF | 2024–2025 | Développement Unity, optimisation, scripts C#, outils techniques |
+| **Ingénieur applicatif – C# / Unity / OCWS** | Projet EDF | 2024–2025 | Développement Unity, optimisation, scripts C#, outils techniques, Migration logiciel |
 | **Projeteur Industriel | BIM (Building Information Modeling)** | Ingénierie | 14 ans | Modélisation 3D, coordination technique, lecture de plans, workflows BIM |
 
 ---
@@ -66,7 +62,7 @@ J’aime construire des systèmes backend robustes, comprendre les mécanismes s
 ## 📫 Contact
 
 <p>
-  <a href="mailto:maxime@example.com">
+  <a href="lanca.maxime.ber@gmail.com">
     <img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/maxime-lanca">
