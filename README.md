@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=200&section=header&text=Maxime%20Lanca%20&fontSize=38&fontAlign=70&fontColor=f5f5f5" />
 </p>
 
-<h1 align="center">Développeur | Python · C# · Backend · Unity</h1>
+<h1 align="center">Développeur | Python · C# · Backend</h1>
 <p align="center">🇫🇷 France · Développement logiciel, API backend, outils techniques et simulations</p>
 
 ---
