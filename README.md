@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=200&section=header&text=Maxime%20Lanca%20—%20Software%20Engineer&fontSize=38&fontAlign=70&fontColor=f5f5f5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=200&section=header&text=Maxime%20Lanca%20&fontSize=38&fontAlign=70&fontColor=f5f5f5" />
 </p>
 
 <h1 align="center">Développeur | Python · C# · Backend · Unity</h1>
