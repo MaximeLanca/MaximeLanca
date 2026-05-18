@@ -1,6 +1,6 @@
 # Maxime Lança
 
-> *Wwhere engineering meets development · building tools nobody else builds.*
+> *Where engineering meets development · building tools nobody else builds.*
 
 ---
 
@@ -15,7 +15,8 @@
 
 **Stack**
 
-`AVEVA E3D` `Python` `C#` `PML1/PML2` `PowerShell` `SmartPlant` `Revit` `Unity 3D` `BIM360` `SQL` `VBA` `AutoCAD`
+🛠 `AVEVA Admin` `Octave SPPID Admin` `Revit` `AutoCAD` `BIM360` `Unity 3D`
+💻 `Python` `C#` `PML1/PML2` `PowerShell` `VBA` `SQL`
 
 ---
 
