@@ -1,6 +1,6 @@
 # Maxime Lança
 
-> *turning P&IDs into code · where engineering meets development · building tools nobody else builds.*
+> *Wwhere engineering meets development · building tools nobody else builds.*
 
 ---
 
@@ -23,10 +23,11 @@
 
 ---
 
-![15 years engineering](https://img.shields.io/badge/15_years-engineering-1D9E75?style=flat-square)
-![cross-domain](https://img.shields.io/badge/cross--domain-no_silo-534AB7?style=flat-square)
-![5+ industries](https://img.shields.io/badge/5%2B-industries-BA7517?style=flat-square)
+![](https://img.shields.io/badge/15%20years%20engineering-1D9E75?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/cross--domain-534AB7?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/no%20silo-534AB7?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/5%2B%20industries-BA7517?style=flat-square&logoColor=white)
 
 ---
 
-📍 Paris &nbsp;·&nbsp; [LinkedIn](https://linkedin.com) &nbsp;·&nbsp; lanca.maxime.ber@gmail.com
+📍 Paris · [LinkedIn](https://linkedin.com) · lanca.maxime.ber@gmail.com
